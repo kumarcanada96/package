@@ -1,3 +1,8 @@
+<?php
+if($_POST["message"]) {
+    mail("damani.kumar@gmail.com", "Form to email message", $_POST["message"], "From: kumarcanada96@gmail.com");
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 

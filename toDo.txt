@@ -1,0 +1,16 @@
+done**//Tabs for vacation pages.
+//Style tour operators pages.
+
+//do the same in cruises.
+
+//update text matter.
+
+done//contact us add request form material
+done//add india + 2 canadas office locations
+done//add view our flyer
+
+
+
+// update navbar in all pages.
+// consistency in titles
+// clean up code

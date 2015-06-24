@@ -1,7 +1,7 @@
 done**//Tabs for vacation pages.
-//Style tour operators pages.
+done//Style tour operators pages.
 
-//do the same in cruises.
+done//do the same in cruises.
 
 done//update text matter.
 

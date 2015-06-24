@@ -263,7 +263,8 @@ footer p {
 }
 
 .extra-t {
-    padding-left: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
     background-color: white;
 
 }
@@ -276,3 +277,7 @@ footer p {
 .spec{
     padding-top: 20px;
 }
+
+.table th, .table td { 
+     border-top: none !important; 
+ }

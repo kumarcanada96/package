@@ -3,7 +3,7 @@ done**//Tabs for vacation pages.
 
 //do the same in cruises.
 
-//update text matter.
+done//update text matter.
 
 done//contact us add request form material
 done//add india + 2 canadas office locations
